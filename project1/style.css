@@ -1,0 +1,220 @@
+*{
+    box-sizing: border-box;
+    
+}
+body
+{
+    background-color: beige;
+}
+.text-canter{
+    text-align: center;
+}
+
+.danger
+{
+    width: 80%;
+    background-color: rgb(47, 47, 176);
+    color: white;
+    padding:20px 10px;
+    margin: 40px auto;
+    border-radius: 20px;
+    
+    
+}
+
+.links a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    background-color: rgba(74, 74, 190, 0.5);
+    padding: 7px 10px; 
+    border-radius: 20px;
+    
+}
+.section
+{
+    background-color: white;
+    width: 80%;
+    margin:30px auto;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+.test
+{
+    display: flex;
+    align-items: center;
+    /* margin: 40px; */
+}
+.test-img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+}    
+.text-border
+{
+    padding: 10px 10px;
+    border-bottom: 1px solid rgb(55, 55, 165);
+    color: #2f5da8;
+}
+.about-text
+{
+    margin: 30px;
+}
+.about-text a{
+    text-decoration: none;
+    background-color: rgba(0, 0, 255, 0.9);
+    color: white;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+.text-color
+{
+    color: blue;
+}
+
+.card
+{
+    background-color: white;
+    width: 80%;
+    margin: 30px auto;
+    border-radius: 20px;
+    padding: 20px;
+
+    
+}
+.product-item
+{
+    /* background-color: rgb(207, 99, 99); */
+    width: 25%;
+    float: left;
+    padding: 5px 5px;
+    /* border: 2px solid; */
+    
+    
+}
+.clear-fix
+{
+    clear: both;
+}
+.card h2{
+    padding: 10px 0px 5px 10px;
+    border-bottom: 1px solid rgb(55, 55, 165);
+}
+.test2{
+    padding-left: 10px;
+}
+.card h2{
+    color:#2f4f8f;
+}
+.card .product-item h3{
+    color: #2f5da8;
+}
+
+.experience
+{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 10px 0;
+
+
+}
+.experience-card
+{
+   
+    padding: 35px 40px;
+    border-left: 6px solid #2f5da8;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    margin: 30px;
+    
+}
+.icon img{
+   width: 100px;
+   height: 100px;
+   object-fit:cover;
+   border-radius:50% ; 
+     
+   
+}
+.icon{
+   border: 1px solid rgb(50, 50, 184);
+   display: inline-block;
+   padding: 5px;
+}
+.info{
+    margin-left: 15px;
+    display: inline-block;
+}
+.info h3{
+    color: blue;
+}
+.experience h2{
+    color:#2f4f8f;
+   padding-left: 15px;
+   padding-bottom: 5px;
+   border-bottom: 1px solid #2f5da8 ;
+  
+}
+.contact
+{
+    background-color:#1d20cd;
+    width: 80%;
+    margin:  auto;
+    padding: 20px 20px;
+    border-radius: 20px;
+    
+}
+.linkss
+{
+    padding: 10px;
+}
+.linkss a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(66, 66, 177, 0.5);
+
+}
+.contact h2
+{
+    color: white;
+    border-bottom: 1px solid white;
+}
+.contact p
+{
+    color: #fff;
+}
+
+.john-doe
+{
+    background-color: rgba(0, 0, 0, 0.738);
+    color: white;
+    width: 80%;
+    margin: 30px auto;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.john-doe p{
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
